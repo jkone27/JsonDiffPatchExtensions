@@ -1,4 +1,4 @@
-# JsonDiffPatchExtensions
+# JsonDiffPatchExtensions [![NuGet Badge](https://buildstats.info/nuget/JsonDiffPatchExtensions)](https://www.nuget.org/packages/JsonDiffPatchExtensions)
 some extensions to jsondiffpatch dotnet to allow ignoring specific fields
 
 
