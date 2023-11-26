@@ -4,6 +4,13 @@
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <PackageId>JsonDiffPatchExtensions</PackageId>
+    <Version>0.0.1</Version>
+    <Authors>jkone27</Authors>
+    <Description>Extends json diff patch dontet library with a wrapper and some utility functions</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/jkone27/JsonDiffPatchExtensions</RepositoryUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
